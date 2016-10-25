@@ -1,1 +1,3 @@
-# winebar
+WB
+
+First implementation
